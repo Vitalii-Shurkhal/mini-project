@@ -4,7 +4,7 @@ RWD
 
 1. Clone this project
 2. Open local repo
-3. Eun idex.html
+3. Eun index.html
 
 Simple of JS code: 
 
