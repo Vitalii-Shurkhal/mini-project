@@ -11,6 +11,7 @@ Simple of JS code:
 ```javascript
 function test() {
 console.log('Hello');
-} ```
+} 
+```
 
 Check more in a link: [GitHub](http://github.com)
